@@ -6,7 +6,7 @@
 - 👓im a self lerner.
 - ✨Try change somethink in my life
 - 🤟 Workout body and mind
-- 
+- 😎 Never give up 😉
 <!---
 Majzerek/Majzerek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
