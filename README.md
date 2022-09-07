@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Majzerek
 - 👀 I’m interested in coding frond end and full stack ;p
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning C++ and Graphic designe.
 - 💞️ I’m looking to collaborate on idk for now
 - 📫 How to reach me, here;p Or write on majzermariusz@gmail.com
 - 👓im a self lerner.
