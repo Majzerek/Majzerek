@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Majzerek
 - 👀 I’m interested in coding frond end and full stack ;p
-- 🌱 I’m currently learning C++ and Graphic designe.
+- 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on idk for now
 - 🎉 My age is 00100001 :P Year of born 11111000101 :)
-- 📫 How to reach me, here;p Or write on majzermariusz@gmail.com
+- 📫 How to reach me, here;p Or write on whitehatmariusz@proton.me
 - 👓im a self lerner.
 - ✨Try change somethink in my life
 - 🤟 Workout body and mind
